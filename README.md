@@ -46,4 +46,5 @@ A Windows Forms application built with Visual Basic .NET in Visual Studio for ma
 - README.md: Project overview.
 - bin/Release/PatientManager.exe: Optional compiled executable.
 
-  Made with ❤️ by **Redd✍️🔴**
+
+Made with ❤️ by **Redd✍️🔴**
