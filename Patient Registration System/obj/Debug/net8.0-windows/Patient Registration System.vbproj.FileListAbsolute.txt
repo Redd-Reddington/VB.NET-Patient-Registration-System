@@ -1,0 +1,24 @@
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient_Registration_System.Form1.resources
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.vbproj.GenerateResource.cache
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.AssemblyInfoInputs.cache
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.AssemblyInfo.vb
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.vbproj.CoreCompileInputs.cache
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\Patient Registration System.exe
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\Patient Registration System.deps.json
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\Patient Registration System.runtimeconfig.json
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\Patient Registration System.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\Patient Registration System.pdb
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.vbproj.AssemblyReference.cache
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient .5DCF09B0.Up2Date
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\refint\Patient Registration System.dll
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.pdb
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\Patient Registration System.genruntimeconfig.cache
+C:\Users\yduos\source\repos\Patient Registration System\Patient Registration System\obj\Debug\net8.0-windows\ref\Patient Registration System.dll
